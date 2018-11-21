@@ -1,0 +1,7 @@
+F    X 
+XX X  X
+ X  XXX
+XXX  X 
+XXXX  X
+       
+XX XXXS
